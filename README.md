@@ -1,14 +1,10 @@
 # Ilya_said_so
-Hacking around on Ilya Sutskever's top 30 AI papers.
+Hacking around on Ilya Sutskever's top 30 AI papers. This repository collects canonical deep‑learning papers. For each, I’ll read, code from scratch (or adapt), and note my progress.
 
 [List of Papers](https://aman.ai/primers/ai/top-30-papers/)
 
 
-# 📚 Deep Learning Reading & Implementation List
-
-This repository collects canonical deep‑learning papers. For each, I’ll read, code from scratch (or adapt), and note my progress.
-
-## Table of Contents
+## Reading & Implementation List
 
 | #  | Paper Title                                                                 | Key Idea / Summary                                                                    | Status       | Code link                      |
 |----|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------|--------------------------------|
