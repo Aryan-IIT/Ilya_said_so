@@ -8,7 +8,7 @@ Hacking around on Ilya Sutskever's top 30 AI papers. This repository collects ca
 
 | #  | Paper Title                                                                 | Key Idea / Summary                                                                    | Status       | Code link                      |
 |----|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------|--------------------------------|
-| 1  | The First Law of Complexodynamics                                            | “Complexodynamics”: study of complexity growth in closed systems                       | Not started  | —                              |
+| 1  | The First Law of Complexodynamics                                            | “Complexodynamics”: study of complexity growth in closed systems                       |  code/complexodynamics.ipynb  | —                              |
 | 2  | The Unreasonable Effectiveness of Recurrent Neural Networks                  | RNNs can learn complex sequences (text, code) almost “unreasonably” well               | Not started  | —                              |
 | 3  | Understanding LSTM Networks                                                  | Intuitive, visual guide to LSTM internals and gating mechanisms                       | Not started  | —                              |
 | 4  | Recurrent Neural Network Regularization                                      | Techniques (dropout variants) to reduce overfitting in RNNs                            | Not started  | —                              |
